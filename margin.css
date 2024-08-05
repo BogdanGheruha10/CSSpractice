@@ -1,0 +1,24 @@
+body {
+    border: solid 2px;
+}
+
+
+.box1 {
+    border: solid 5px;
+    height: 250px;
+    width: 250px;
+    font-size: 22px;
+    padding: 10px;
+    background-color: skyblue;
+    margin-left: 200px;
+}
+
+.box2 {
+
+    border: solid 5px;
+    height: 250px;
+    width: 250px;
+    font-size: 22px;
+    padding: 10px;
+    background-color: lightgreen;
+}

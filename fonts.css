@@ -1,0 +1,11 @@
+.first-font {
+    font-family: kalnia glaze;
+}
+.second-font {
+    font-weight: 700;
+    font-family: kalnia glaze;
+    background-color: black;
+}
+body {
+    background-color: grey;
+}

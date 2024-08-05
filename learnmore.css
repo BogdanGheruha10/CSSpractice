@@ -1,0 +1,100 @@
+body {
+    background:  radial-gradient(#A48B2A, rgb(49, 44, 44));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+
+.material-symbols-outlined:hover {
+    color: white;
+}
+.icon {
+display: flex;
+position: sticky;
+top:  0px;
+
+}
+.material-symbols-outlined {
+    background-color: aqua;
+    height: 30px;
+    width: 30px;
+}
+.zurich-best {
+    height: 400px;
+    float: left;
+    padding: 20px;
+   
+
+}
+.text-box {
+    
+        text-align: center; 
+        color: white;
+        padding: 20px;
+        text-shadow: 0px 0px 7px red;
+        
+    
+    
+}
+.text-b {
+    float: right;
+}
+.text-box1 {
+    text-align: center; 
+    color: white;
+    padding: 20px;
+    text-shadow: 0px 0px 7px red;
+    border: 2px solid;
+    background: radial-gradient(black, purple);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.text-box2 {
+    text-align: center; 
+    color: white;
+    padding: 20px;
+    text-shadow: 0px 0px 7px red;
+    border: 2px solid;
+    background: radial-gradient(black, blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.text-box3 {
+    text-align: center; 
+    color: white;
+    padding: 20px;
+    text-shadow: 0px 0px 7px red;
+    border: 2px solid;
+    background: radial-gradient(black, red);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.nice {
+    height: 300px;
+    float: left ;
+}
+.nicer {
+    height: 250px;
+    float: right ;
+}
+.nice1 {
+    height: 300px;
+    float: left ;
+}
+.nicer1 {
+    height: 300px;
+    float: right ;
+}
+
+.laptop {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    filter: drop-shadow(30px 30px 6px #333);
+}
+.final-text {
+    text-align: center;
+    font-family: kalnia glaze;
+    text-shadow: 0px 0px 7px red;
+}

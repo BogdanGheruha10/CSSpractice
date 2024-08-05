@@ -1,0 +1,19 @@
+
+.id {
+    font-family: kalnia glaze;
+    background: linear-gradient(skyblue, lightgreen);
+    text-align: center;
+}
+.id1 {
+    font-family: kalnia glaze;
+    background: linear-gradient(skyblue, lightgreen);
+    text-align: center;
+}
+body {
+
+    background-image: url(Background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}

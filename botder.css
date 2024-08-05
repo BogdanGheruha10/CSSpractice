@@ -1,0 +1,7 @@
+body {
+    background-color: darkslategrey;
+    border: solid gold 3px;
+    border-width: 5px;
+    border-radius: 5px;
+    padding: 5px;
+}

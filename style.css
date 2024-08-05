@@ -1,0 +1,17 @@
+body { 
+    background-color: black;
+}
+h1 {
+    color: #ffffff;
+}
+
+.par {
+    color: white;
+    background-color: grey;
+}
+#p1 {
+    color: red;
+}
+.p2 {
+    color: blue;
+}

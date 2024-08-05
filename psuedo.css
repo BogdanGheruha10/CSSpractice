@@ -1,0 +1,18 @@
+a:hover {
+    color: aqua;
+}
+a:link {
+    color: red
+}
+a:visited {
+    color: grey;
+}
+.psuedo:active {
+    color: white;
+}
+button:hover {
+    background-color: lightgrey;
+}
+li:nth-child(5n) {
+background-color: aqua;
+}

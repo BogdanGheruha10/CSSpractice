@@ -1,0 +1,21 @@
+body {
+    background: radial-gradient(skyblue,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+img {
+float: right;
+}
+ .box {
+    width: 150px;
+    height: 150px;
+    border: solid 4px;
+    border-radius: 10px;
+    background-color:tomato;
+    font-size: 50px;
+    text-align: center ;
+    float: left ;
+ }
+ p {
+    clear: both;
+ }
